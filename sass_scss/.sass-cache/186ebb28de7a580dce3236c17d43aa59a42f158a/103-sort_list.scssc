@@ -1,0 +1,6 @@
+3.7.4
+71dff1e080517c0f257e99eda7852db16e7d5a97
+o:Sass::Tree::RootNode:@children[o:Sass::Tree::VariableNode:
+@nameI"list_to_sort:ET:
+@expro:$Sass::Script::Tree::ListLiteral:@elements[o: Sass::Script::Tree::Literal	:@valueo: Sass::Script::Value::String	;I"	john;	T:
+@options{

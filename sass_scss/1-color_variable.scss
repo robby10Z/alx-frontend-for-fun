@@ -1,8 +1,10 @@
-$variable: #3d3d3d;
+/* variables */
+$text-color: #3D3D3D;
 
 body {
-  color: $variable;
+    color: $text-color;
 }
+
 p {
-  color: $variable;
+    color: $text-color;
 }
